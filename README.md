@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+![alt text](./public/app.gif "React Todo App")
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
