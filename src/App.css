@@ -75,8 +75,18 @@ button {
   border-left: none;
 }
 
+.add-button:hover {
+  color: #252525;
+  background: #44c0b6;
+}
+
 .delete-button {
   color: #fe6a6a;
+}
+
+.delete-button:hover {
+  color: #252525;
+  background: #fe6a6a;
 }
 
 ul {
